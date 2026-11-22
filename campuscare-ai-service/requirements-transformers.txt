@@ -1,0 +1,6 @@
+# Optional: Sentence-BERT embeddings (better duplicate detection) and the fine-tuned BERT category model.
+# Installs PyTorch (~800 MB). On a machine without a GPU, the CPU build is enough to *run* the models:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=2.7

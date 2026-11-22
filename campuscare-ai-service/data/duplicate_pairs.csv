@@ -1,0 +1,41 @@
+text_a,text_b,duplicate,kind
+"The switchboard in ECE lab 3 is sparking when we plug in the soldering iron","Sparks coming from the socket at the back of ECE lab 3",1,same issue
+"Wifi not working in the central library since morning","No internet in the library reading hall, wifi shows connected but nothing loads",1,same issue
+"Water leaking from the ceiling in block B 2nd floor corridor","There is water dripping from the roof in the 2nd floor corridor of block B, floor is slippery",1,same issue
+"The lift in block A got stuck with students inside","Block A elevator stopped between floors today with people trapped inside",1,same issue
+"Bus on route 4 is late every day by 30 minutes","Route 4 college bus always comes half an hour late",1,same issue
+"Washroom near the canteen is very dirty and stinking","The toilets next to the canteen are filthy and smell terrible",1,same issue
+"CCTV camera above the main gate is broken","The camera at the main entrance is hanging and not working",1,same issue
+"Projector in room 104 not working, blue screen","Room 104 projector shows only a blue screen during lectures",1,same issue
+"Fan in hostel room 212 not working for three days","Ceiling fan of room 212 boys hostel is dead",1,same issue
+"Garbage bins near canteen overflowing","Dustbins outside the canteen are full and trash is spilling out",1,same issue
+"No water in girls hostel washrooms","Water supply stopped in the girls hostel bathrooms",1,same issue
+"Back gate of girls hostel is open at night, lock broken","Girls hostel rear gate lock is damaged and it stays open all night",1,same issue
+"ERP portal not opening, server error","College portal giving server error since morning, can't log in",1,same issue
+"Mess food is stale and cold","The food served in the hostel mess today was stale",1,same issue
+"Broken chairs in row F of the auditorium","Several seats in the auditorium are broken, seat comes off",1,same issue
+"Drinking water cooler on ground floor gives warm water","Ground floor water cooler is not cooling at all",1,same issue
+"Lab computers in CSE lab 2 not booting","Half the PCs in CSE lab 2 won't start",1,same issue
+"Mosquitoes everywhere near the hostel because of stagnant water","Stagnant water behind the hostel is breeding mosquitoes",1,same issue
+"Bus driver on Dwarka route drives very rashly","Dwarka route driver overspeeds and brakes suddenly",1,same issue
+"Tube lights flickering in tutorial room 4","The lights in tutorial room 4 keep blinking",1,same issue
+"The switchboard in ECE lab 3 is sparking","Fan in ECE lab 3 is not working",0,same category
+"Wifi not working in central library","ERP portal shows server error",0,same category
+"Water leaking from the ceiling in block B corridor","No water in block B washroom",0,same category
+"Lift in block A got stuck","Paint peeling in block A corridor",0,same category
+"Bus on route 4 is late every day","Bus pass not issued yet",0,same category
+"Washroom near canteen is dirty","Rats seen in the canteen kitchen",0,same category
+"CCTV at main gate broken","My phone was stolen in the library",0,same category
+"Projector in room 104 not working","Timetable clash between DBMS lab and maths lecture",0,same category
+"Fan in hostel room 212 not working","Geyser in boys hostel not working",0,same category
+"Mess food is stale","Laundry in the hostel has been closed",0,same category
+"Broken chairs in auditorium","Crack in the wall of the auditorium",0,same category
+"Drinking water cooler gives warm water","Drain outside the mess is blocked",0,same category
+"Tube lights flickering in tutorial room 4","No electricity in the whole girls hostel",0,same category
+"Some boys harassing girls near canteen","Guard at back gate is always sleeping",0,same category
+"The switchboard in ECE lab 3 is sparking","Projector in ECE lab 3 is not working",0,different category
+"Wifi not working in library","Library has too few copies of textbooks",0,different category
+"Water leaking in block B corridor","Tiles broken in block B corridor",0,different category
+"Bus late every day","Mess breakfast is never ready on time",0,different category
+"Washroom near canteen dirty","Canteen lights not working",0,different category
+"Fan wobbling in hostel room","Hostel room door lock is broken",0,different category

@@ -1,0 +1,163 @@
+text,category,severity,urgency,safety_label
+"Fan in room 302 hasn't worked since monday, its really hot during afternoon lectures",electrical,2,3,0
+"The plug near my bed in hostel room 14 burst with a spark yesterday night and the wall is black around it",electrical,5,4,1
+"Lights in the 2nd floor corridor of block B dont turn on, walking there in the evening is scary",electrical,3,3,1
+"please check the switchboard of DSP lab, wires are coming out of it and students keep touching it",electrical,5,4,1
+"AC of seminar hall not working, event tomorrow with 200 people",electrical,2,3,0
+"Power has been out in the entire girls hostel since 6 am and the inverter died too",electrical,4,4,0
+"Got a mild current from the water cooler tap near library. please get it checked before someone gets hurt",electrical,5,5,1
+"tube light in tutorial room 4 is blinking constantly, gives headache",electrical,2,2,0
+"There is a smell of burning wire coming from the meter room on the ground floor",electrical,5,5,1
+"The fan in our hostel room is making a grinding noise and wobbles a lot, scared it will fall on the bed",electrical,4,3,1
+"Charging sockets in the library reading area are all dead, cant charge laptop",electrical,2,2,0
+"Main breaker of computer lab trips whenever more than 20 systems are on",electrical,3,3,1
+"Street lamps near the back gate parking are off for a week, girls feel unsafe walking to the bus",electrical,3,4,1
+"electricity keeps fluctuating in block C, two monitors already got damaged",electrical,3,3,0
+"the projector socket in room 118 gives sparks when we plug in the projector",electrical,5,4,1
+"Bulb in the hostel bathroom fused 3 days ago, still not replaced",electrical,2,3,0
+"Inverter backup in the CSE department doesnt work during power cuts",electrical,3,3,0
+"Open junction box with live wires right next to the basketball court, kids from staff quarters play there",electrical,5,5,1
+"Water dripping from the ceiling of the library near the computers, floor is wet",plumbing,4,3,1
+"No water in the boys washroom of block A since morning, cant even wash hands",plumbing,4,4,0
+"the cooler outside the ECE department gives hot water in this heat",plumbing,2,2,0
+"Tap in the girls washroom on 3rd floor keeps running, it doesnt close at all",plumbing,3,3,0
+"RO water near canteen tastes salty and smells weird, a few people got stomach ache",plumbing,4,4,1
+"Drain outside the mess is choked and dirty water has collected all over the path",plumbing,3,3,0
+"flush not working in 2 out of 3 toilets in hostel wing C",plumbing,3,2,0
+"Overhead tank on block B roof overflows every morning, the water falls on the stairs",plumbing,3,3,1
+"Wall of room 207 is always damp, there's seepage from the washroom next door",plumbing,3,2,0
+"Shower in hostel bathroom gives barely any water, we have to fill buckets",plumbing,2,2,0
+"pipe burst near the cycle stand, water flowing on the road since an hour",plumbing,4,4,0
+"The basin in the chemistry lab is blocked, we can't wash the glassware",plumbing,3,3,0
+"Water purifier in girls hostel hasn't been serviced in months, filter is green",plumbing,3,3,1
+"Hostel pani supply band hai since kal raat",plumbing,4,4,0
+"Washroom near seminar hall has water all over the floor from a leaking pipe, someone slipped today",plumbing,4,4,1
+"Drinking water tap in the canteen is broken",plumbing,3,2,0
+"Water pressure on the top floor of the hostel is so low that nothing comes in the evening",plumbing,2,3,0
+"the toilet in staff room washroom is leaking and the water is spreading into the corridor",plumbing,3,3,0
+"Ground floor washroom in block C stinks so bad you cant even go near it",sanitation,3,3,0
+"dustbins near the canteen havent been emptied in 4 days, crows and dogs all over",sanitation,3,4,0
+"Saw a rat inside the canteen kitchen while they were making samosas",sanitation,4,3,1
+"There's stagnant water in the old tyres behind the workshop, full of mosquito larvae",sanitation,3,3,1
+"no soap or tissue in any washroom of the admin block",sanitation,2,3,0
+"Cockroaches in the mess kitchen and on the serving counter",sanitation,4,3,1
+"Class 305 hasn't been swept for a week, there are wrappers and dust everywhere",sanitation,2,3,0
+"The canteen staff serve food with bare hands and the plates have food stuck on them",sanitation,3,3,1
+"Something has died near the generator room, terrible smell for two days",sanitation,4,4,0
+"Sanitary pad vending machine in girls washroom block B is empty since last week",sanitation,2,3,0
+"toilets in the hostel are cleaned only once a week, condition is horrible",sanitation,3,3,0
+"Garbage is being burnt behind the hostel and the smoke comes into our rooms",sanitation,3,4,1
+"Too many flies in the food court, they sit on everything",sanitation,3,3,0
+"mosquitoes in the library are unbearable in the evening, 2 friends got dengue last month",sanitation,3,4,1
+"the dustbin in our corridor is overflowing and smelling",sanitation,3,3,0
+"Washroom ka floor hamesha ganda rehta hai aur dustbin nahi hai",sanitation,3,3,0
+"Cobwebs and dust all over the e-library computers area",sanitation,2,2,0
+"Spit stains and paan marks all over the staircase in block A",sanitation,2,2,0
+"Some outsiders on bikes were roaming inside campus near girls hostel at 11 pm",security,4,4,1
+"My cycle got stolen from the stand even though it was locked",security,4,3,1
+"CCTV near the library entrance has been dead for a month, nobody noticed",security,4,4,1
+"Back gate is open the whole night, there is no guard there",security,4,4,1
+"A group of seniors forced first years to do push ups in the hostel corridor and abused them",security,5,5,1
+"some guys keep passing comments on girls near the canteen every day",security,5,5,1
+"Guard at gate 2 is always on his phone and doesnt check anyone",security,3,3,1
+"Wallet and phone stolen from the boys changing room during sports practice",security,4,3,1
+"There was a huge fight near the parking, someone had a bleeding head",security,5,5,1
+"Visitors enter the hostel without signing any register",security,2,2,0
+"a man was clicking photos of girls near the bus stop inside campus",security,5,5,1
+"lock of the girls hostel back door is broken, door doesnt shut",security,4,4,1
+"Laptop missing from the library desk, I went for 10 minutes",security,4,3,1
+"Drunk people near the back wall of the campus at night throwing bottles",security,4,4,1
+"Fresher being bullied and threatened by seniors in the mess",security,5,5,1
+"No CCTV in the parking area, two helmets stolen this week",security,4,3,1
+"Gate pe koi guard nahi hota raat ko",security,3,3,1
+"Unknown person tried to enter the girls hostel claiming to be a delivery guy",security,4,4,1
+"The dal in mess was watery and had a stone in it, food is getting worse every week",hostel,3,3,0
+"Mess dinner finishes by 8:45 even though timing is till 9:30",hostel,2,3,0
+"my room bed has a broken plank, i literally sleep on the floor",hostel,2,3,0
+"Geyser in the 2nd floor bathroom of boys hostel not working, freezing water in december",hostel,3,3,0
+"Laundry has been closed for 2 weeks and no one tells why",hostel,2,3,0
+"Wardens office never picks up the phone at night",hostel,2,2,0
+"Found a worm in the paneer at lunch in the hostel mess",hostel,3,3,0
+"Room allotment for 2nd years still not done and classes have started",hostel,2,3,0
+"people in the room next to mine play music till 3 am",hostel,2,2,0
+"cupboard door in room 112 came off its hinges",hostel,2,2,0
+"Our hostel room door does not lock, my stuff is not safe",hostel,3,3,1
+"Mess food quality is very poor, same aloo every day and roti is half cooked",hostel,3,3,0
+"hostel me khana bahut bekaar hai aaj kal",hostel,3,3,0
+"Breakfast in the mess is never ready by 7:30 and we miss the 8 am bus",hostel,2,3,0
+"Washing machines on the ground floor have been broken since the start of the semester",hostel,2,3,0
+"The study table in my room is wobbly and the chair is missing",hostel,2,2,0
+"Hostel common room TV and furniture are broken",hostel,2,2,0
+"Warden has not acted on our complaint about the room heater for a week",hostel,2,3,0
+"Route 9 bus came at 9:10 today, first lecture already started. this happens daily",transport,2,4,0
+"bus was so full that people were hanging at the door",transport,4,4,1
+"Our bus driver was talking on the phone and overtaking trucks on the highway",transport,4,4,1
+"The Rohini bus broke down near Peeragarhi and we waited an hour for another one",transport,3,4,0
+"Bus didn't come to our stop today and nobody informed us",transport,3,4,0
+"AC in bus 14 has not worked all summer",transport,2,3,0
+"No parking space for two wheelers, people park on the road outside and get challans",transport,2,2,0
+"Bus pass for semester 5 still not issued even after paying fees",transport,2,3,0
+"No bus after 5 pm but our labs end at 5:30",transport,2,3,0
+"seats in the Noida route bus are torn and some are broken",transport,2,2,0
+"The driver of route 3 skips stops if nobody is standing there exactly on time",transport,2,3,0
+"Bus is always late in the evening, we reach home after 8",transport,2,3,0
+"bus wala bahut rash drive karta hai, aaj almost accident hote hote bacha",transport,4,5,1
+"Bus timing change kar diya bina bataye",transport,3,4,0
+"Windows of the Dwarka bus are stuck and dont open, very suffocating",transport,2,2,0
+"College bus driver smokes inside the bus while driving",transport,4,4,1
+"Bus fees receipt not generated on the portal",transport,2,2,0
+"Outside cars parked in the faculty parking every day",transport,2,2,0
+"Projector in LT-2 shows no signal with any laptop",academic,3,3,0
+"half the CROs in the analog lab don't show any waveform, we share 1 between 6",academic,3,3,0
+"Timetable has DBMS lab and maths lecture at the same slot on Thursday",academic,2,3,0
+"Our professor hasn't come to class for the last 3 weeks",academic,2,3,0
+"Wrong question paper given in today's exam for section B",academic,3,4,0
+"Library has only 2 copies of Sedra Smith for 120 students",academic,2,2,0
+"my attendance shows 60% but I attended almost all classes, please correct it",academic,2,3,0
+"Mic in the auditorium cuts off every few minutes during seminars",academic,2,3,0
+"Smart board in room 210 doesnt turn on, teacher uses marker on it",academic,2,3,0
+"Soldering irons in the workshop are not heating, we cant complete our project",academic,3,4,0
+"Practical exam is tomorrow and the trainer kits in the digital lab are not working",academic,3,4,0
+"Internal marks for semester 3 have still not been uploaded",academic,2,3,0
+"No invigilator came to room 105 for 20 minutes during the mid sem",academic,3,4,0
+"Physics lab has only 3 working experiments for the whole batch",academic,3,3,0
+"projector remote missing and projector doesnt turn on without it in room 104",academic,3,3,0
+"Class mein projector ka display bahut dim hai, kuch dikhta nahi",academic,3,3,0
+"The function generators in the communication lab give a distorted output",academic,3,3,0
+"Seminar hall speakers are not working and we have a guest lecture today",academic,2,4,0
+"Wifi in boys hostel doesnt work after 10 pm, can't submit assignments",it,3,3,0
+"Internet in the library is so slow that even google takes a minute",it,2,2,0
+"ERP shows 'server error' when I try to pay my exam fees, last date is tomorrow",it,3,5,0
+"Computers in CSE lab 3 keep restarting on their own",it,3,3,0
+"Printer in the library has been out of ink for a week",it,2,3,0
+"LAN ports in the hostel rooms are not working",it,2,2,0
+"I can't login to my college email, it says account disabled",it,2,2,0
+"Matlab license expired on lab computers, we need it for the DSP practical",it,2,3,0
+"All lab PCs have some virus, my pen drive got corrupted",it,3,3,0
+"Wifi connects but there's no internet in the whole admin block",it,3,3,0
+"college website results page is not loading",it,2,3,0
+"Network keeps dropping every 5 minutes in girls hostel",it,2,3,0
+"hostel wifi password changed and nobody told us the new one",it,2,2,0
+"lab ke saare computer bahut slow hai aur hang ho jate hai",it,3,3,0
+"Online quiz portal crashed during the test",it,3,4,0
+"The photocopier in the library jams after every 2 pages",it,2,2,0
+"Projector laptop in room 305 has no internet",it,2,2,0
+"Wifi is completely down in the whole campus since 2 hours, online exam is at 3 pm",it,3,5,0
+"A big piece of plaster fell from the ceiling in room 204 during class, luckily nobody was sitting there",infrastructure,5,4,1
+"Crack in the wall of the girls hostel stairwell keeps getting wider",infrastructure,4,3,1
+"4 benches in room 104 are broken, students sit on the windowsill",infrastructure,2,2,0
+"The lift in the admin block stopped between floors with 5 people inside for 15 minutes",infrastructure,4,5,1
+"Railing of the 3rd floor balcony in block A is loose and shakes when you lean",infrastructure,4,4,1
+"Glass of the library window is broken and pieces are still on the floor",infrastructure,4,3,1
+"Door of the class 302 cant be closed, the hinge is broken",infrastructure,3,2,0
+"Tiles near the canteen entrance are broken, I tripped yesterday",infrastructure,3,3,1
+"There's no ramp to enter the library, my friend uses a wheelchair",infrastructure,3,2,0
+"Paint is peeling off all the walls in the ECE corridor",infrastructure,1,1,0
+"Garden benches are broken",infrastructure,1,1,0
+"The roof of the cycle stand shed is about to fall",infrastructure,4,4,1
+"Lift kab se kharab hai, bahut problem hoti hai",infrastructure,4,4,1
+"Steps of the main staircase are chipped and slippery",infrastructure,3,3,1
+"The window in room 109 doesnt close and rain water comes in",infrastructure,3,2,0
+"Chairs in the seminar hall are torn and some legs are broken",infrastructure,2,2,0
+"Potholes on the internal road near the hostel, bikes keep slipping",infrastructure,3,3,1
+"False ceiling panel in the corridor is hanging and could fall anytime",infrastructure,5,4,1
